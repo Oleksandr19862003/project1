@@ -1,0 +1,7 @@
+.picture1 {
+  display: flex;
+  flex-direction: row;
+}
+.item {
+  flex-direction: row;
+}
